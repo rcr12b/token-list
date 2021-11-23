@@ -1,0 +1,10 @@
+  {
+            "chainId": 101,
+            "address":"CDbTGfuVkETYTTujTyUw2DP3Qi68KeCg8QgbGWQ5cXjG",
+            "symbol": "EXM",
+            "name": "Example",
+            "decimals": 8,
+            "logoURI":"https://photouploads.com/image/MpQz",
+            "tags": ["token"]
+}
+    
