@@ -26135,9 +26135,16 @@
       "decimals": 0,
       "logoURI": "https://cdn.dribbble.com/users/612987/screenshots/4309689/letter-n-logo.jpg",
       "tags": [
-        "utility-token"
-      ]
+        "utility-token"]
     }
+      "chainId": 101,
+      "address": "CDbTGfuVkETYTTujTyUw2DP3Qi68KeCg8QgbGWQ5cXjG",
+      "symbol": "EXM",
+      "name": "example",
+      "decimals": 8,
+      "logoURI": "https://imgur.com/a/Hk3Jeao",
+      "tags": ["token"]
+    {
   ],
   "version": {
     "major": 0,
